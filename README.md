@@ -1,13 +1,13 @@
 <!-- Badges session -->
 <p align="center">
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/michelecarine/mapeamento-covid19-js?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/mapeamento-covid19-js?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/michelecarine/mapeamento-covid19-js?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/mapeamento-covid19-js?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/michelecarine/mapeamento-covid19-js?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/mapeamento-covid19-js?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/michelecarine/mapeamento-covid19-js?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/mapeamento-covid19-js?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
